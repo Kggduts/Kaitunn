@@ -1,7 +1,3 @@
--- decomped by yours truly (.kirvv)
--- filename: beecon_hub.lua
--- version: lua51
--- line: [0, 0] id: 0
 local r0_0 = game:GetService("MarketplaceService")
 local r1_0, r2_0 = pcall(r0_0.GetProductInfo, r0_0, game.PlaceId)
 local r3_0 = "Unknown Game"
