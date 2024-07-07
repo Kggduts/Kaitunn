@@ -1,6 +1,6 @@
 local r0_0 = game:GetService("MarketplaceService")
 local r1_0, r2_0 = pcall(r0_0.GetProductInfo, r0_0, game.PlaceId)
-local r3_0 = "Unknown Game"
+local r3_0 = "Bee Swarm Simulator"
 if r1_0 and r2_0 then
   r3_0 = r2_0.Name
 end
